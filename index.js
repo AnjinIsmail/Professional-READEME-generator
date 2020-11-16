@@ -167,7 +167,7 @@ promptUser()
     .then(readmeData => {
         console.log(readmeData)
         const readMe = generatePage.generateMarkdown(readmeData);
-        fs.writeFile('ReadMe.md', readMe, err => {
+        fs.writeFile('codeReadME.md', readMe, err => {
             if (err) throw new Error(err);
         })
     })

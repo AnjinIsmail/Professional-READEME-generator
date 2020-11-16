@@ -1,14 +1,14 @@
-[![LaTex license](https://img.shields.io/badge/License-LaTex-blue.svg)](https://lbesson.mit-license.org/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 # Your Project Title
 
-weather-Dashboard
+weather- dashboard
 
 ## Description
 
 The main objective is to create a Weather app that retrieves weather data for cities.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -19,7 +19,7 @@ The main objective is to create a Weather app that retrieves weather data for ci
 
 ## Installation
 
-na
+none
 
 ## Usage
 
@@ -27,15 +27,19 @@ The overall goal is for the traveler to see the weather outlook for multiple cit
 
 ## Credits
 
+to many
+
 ## License
 
-License LaTex is been used
+License MIT is been used
 
 ## Features
 
 ## Contributing
 
 ## Tests
+
+double click on the index.html, then enter your city name in the search bar
 
 ## Questions
 

@@ -2,7 +2,7 @@
 
 ## Description
 
-The overal purpose of to generator a README so the User can quickly create a professional README for a new project.
+The overal purpose of this app is to generator a README so the User can quickly create a professional README for a new project.
 When User is promoted for information about their application repository a professional README is generated with the title of their project and sections entitled the following:
 
 - Description
@@ -19,9 +19,18 @@ When User is promoted for information about their application repository a profe
 The following are the steps on using the professional README
 
 1.  Overall, when user is given a command-line application, it accepts the user input
-2.  When user enter project title, their it is displayed as title of README
-3.  When use enters a descirption, installation, usage information, contribution guidelines, and test instructions, then this information is added to the sections of the README enetitled Description, Installation , Usage, Contributing and Tests.
-4.  When user chooses a license for their application form a list of options, then a badge for that license is added.
+2.  When user enters project title, it is displayed as title of README
+3.  When user enters a descirption, installation, usage information, contribution guidelines, and test instructions, then this information is added to the sections of the README enetitled Description, Installation , Usage, Contributing and Tests.
+4.  When user chooses a license for their application from a list of options, then a badge for that license is added.
 5.  When user enters their Github username, then it is added to the README section entitled Questions with a link to their Github profile.
-6.  Once user enters their email address, it is added to the section of README entitled Questions with instructions on how to them with additional questions
-7.  When user clicks on the links in the Table of Contents, they are taken to the corresponding section of the README
+6.  When user clicks on the links in the Table of Contents, they are taken to the corresponding section of the README
+
+## Deployed Application:
+
+https://anjinismail.github.io/Professional-READEME-generator/.
+
+## Video/gif walk through link below:
+
+https://drive.google.com/file/d/1BMLiYpUk_pyQYizaEJ6wBOleqGRS23J5/view
+
+<img src="./img/Professional-README-generator.gif">
