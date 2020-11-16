@@ -2,7 +2,7 @@
 
 ## Description
 
-The overal purpose of this app is to generator a README so the User can quickly create a professional README for a new project.
+The overall purpose of this app is to generator a README so the User can quickly create a professional README for a new project.
 When User is promoted for information about their application repository a professional README is generated with the title of their project and sections entitled the following:
 
 - Description
@@ -24,10 +24,6 @@ The following are the steps on using the professional README
 4.  When user chooses a license for their application from a list of options, then a badge for that license is added.
 5.  When user enters their Github username, then it is added to the README section entitled Questions with a link to their Github profile.
 6.  When user clicks on the links in the Table of Contents, they are taken to the corresponding section of the README
-
-## Deployed Application:
-
-https://anjinismail.github.io/Professional-READEME-generator/.
 
 ## Video/gif walk through link below:
 
