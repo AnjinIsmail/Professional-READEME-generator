@@ -29,8 +29,7 @@ function generateMarkdown(data) {
 
   return ` 
   ${renderLicense(data.license)}
-  # Your Project Title
-  ${data.title}
+  # ${data.title}
   ## Description
  
   ${data.description}
